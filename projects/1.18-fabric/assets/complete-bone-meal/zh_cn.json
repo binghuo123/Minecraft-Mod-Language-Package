@@ -1,0 +1,20 @@
+{
+    "text.autoconfig.complete_bone_meal.title": "Complete Bone Meal Config",
+    "text.autoconfig.complete_bone_meal.option.enableCactusBoneMeal": "骨粉催生仙人掌",
+    "text.autoconfig.complete_bone_meal.option.enableChorusFlowerBoneMeal": "骨粉催生紫颂果",
+    "text.autoconfig.complete_bone_meal.option.enableNetherWartBoneMeal": "骨粉催熟地狱疣",
+    "text.autoconfig.complete_bone_meal.option.enableSugarCaneBoneMeal": "骨粉催生甘蔗",
+    "text.autoconfig.complete_bone_meal.option.enableVineBoneMeal": "骨粉催生藤蔓",
+    "text.autoconfig.complete_bone_meal.option.enableCoralBoneMeal": "骨粉催生珊瑚",
+    "text.autoconfig.complete_bone_meal.option.enableDeadBushBoneMeal": "骨粉催熟枯木",
+    "text.autoconfig.complete_bone_meal.option.enableFlowerBoneMeal": "骨粉催生花",
+    "text.autoconfig.complete_bone_meal.option.enableHangingRootsMeal": "骨粉催生倒悬根茎",
+    "text.autoconfig.complete_bone_meal.option.enableLeavesBoneMeal": "骨粉催生树叶",
+    "text.autoconfig.complete_bone_meal.option.enableLilyPadsBoneMeal": "骨粉催生睡莲",
+    "text.autoconfig.complete_bone_meal.option.enableMyceliumBoneMeal": "骨粉催生菌丝",
+    "text.autoconfig.complete_bone_meal.option.enableRootsBoneMeal": "骨粉催熟下界菌索（诡异菌索，绯红菌索）",
+    "text.autoconfig.complete_bone_meal.option.enableSpongeBoneMeal": "骨粉催生海绵",
+    "text.autoconfig.complete_bone_meal.option.enableSporeBlossomsBoneMeal": "骨粉催生孢子花",
+    "text.autoconfig.complete_bone_meal.option.enableSproutsBoneMeal": "骨粉催生下界苗",
+    "text.autoconfig.complete_bone_meal.option.enableTallPlantsBoneMeal": "骨粉催生高草丛"
+  }
